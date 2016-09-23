@@ -1,0 +1,19 @@
+■Glab-study用のGitHubリポジトリ
+
+　https://github.com/NakazawaYoshimitsu/glab_study.git
+
+■コマンド(最初のGit登録)
+　$ pwd
+　/home/nakazawa/github/glab_study
+　$ git init
+　$ git add glab_study
+　$ git commit -m "first commit"
+　$ git remote add origin https://github.com/NakazawaYoshimitsu/glab_study.git
+　$ git push -u origin master
+
+■変更＆登録
+　$ git add glab_study
+　$ git commit -m "2nd commit"
+　$ git push -u origin master
+
+
